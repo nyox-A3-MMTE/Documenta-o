@@ -4,7 +4,7 @@ Lista dos documentos importantes do projeto Nyox Imóveis, incluindo planejament
 
 | Documento | Descrição | Data |
 |-----------|-----------|------|
-| [Business Model Canvas Planning Whiteboard](Documentos/Business%20Model%20Canvas%20Planning%20Whiteboard%20in%20Blue%20Pink%20Green%20Spaced%20Color%20Blocks%20Style.pdf) | Planejamento inicial do modelo de negócios | 2 dias atrás |
+| [Business Model Canvas Planning Whiteboard](https://github.com/nyox-A3-MMTE/Documenta-o/blob/main/Business%20Model%20Canvas%20Planning%20Whiteboard%20in%20Blue%20Pink%20Green%20Spaced%20Color%20Blocks%20Style.pdf) | Planejamento inicial do modelo de negócios | 2 dias atrás |
 | [Code Review](Documentos/Code_Review.pdf) | Revisão de código | 2 meses atrás |
 | [Documento de Padrões de Projeto - Nyox Imóveis](Documentos/Documento%20de%20Padr%C3%B5es%20de%20Projeto%20-%20Nyox%20Im%C3%B3veis.pdf) | Diretrizes e padrões de desenvolvimento | 2 dias atrás |
 | [Documento de aprovação formal dos requisitos - Sprint 2](Documentos/Documento%20de%20aprova%C3%A7%C3%A3o%20formal%20dos%20requisitos%20-%20Sprint%202.pdf) | Aprovação formal dos requisitos da Sprint 2 | 2 dias atrás |
