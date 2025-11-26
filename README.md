@@ -1,2 +1,22 @@
-# Documenta-o
-Repositório destinado ao armazenamento dos documentos relacionados ao planejamento do desenvolvimento do projeto.
+## 📄 Documentação
+
+Lista dos documentos importantes do projeto Nyox Imóveis, incluindo planejamento, requisitos, arquitetura e testes.
+
+| Documento | Descrição | Data |
+|-----------|-----------|------|
+| [Business Model Canvas Planning Whiteboard](Documentos/Business%20Model%20Canvas%20Planning%20Whiteboard%20in%20Blue%20Pink%20Green%20Spaced%20Color%20Blocks%20Style.pdf) | Planejamento inicial do modelo de negócios | 2 dias atrás |
+| [Code Review](Documentos/Code_Review.pdf) | Revisão de código | 2 meses atrás |
+| [Documento de Padrões de Projeto - Nyox Imóveis](Documentos/Documento%20de%20Padr%C3%B5es%20de%20Projeto%20-%20Nyox%20Im%C3%B3veis.pdf) | Diretrizes e padrões de desenvolvimento | 2 dias atrás |
+| [Documento de aprovação formal dos requisitos - Sprint 2](Documentos/Documento%20de%20aprova%C3%A7%C3%A3o%20formal%20dos%20requisitos%20-%20Sprint%202.pdf) | Aprovação formal dos requisitos da Sprint 2 | 2 dias atrás |
+| [Documento de arquitetura (com diagramas C4) - Sprint 3](Documentos/Documento%20de%20arquitetura%20(com%20diagramas%20C4)%20-%20Sprint%203.pdf) | Arquitetura do sistema com diagramas C4 | 2 dias atrás |
+| [Documento de requisitos - Sprint 2](Documentos/Documento%20de%20requisitos%20-%20Sprint%202.pdf) | Requisitos funcionais e não funcionais | 2 dias atrás |
+| [Estudo de viabilidade (Técnica_Econômica) - Sprint 2](Documentos/Estudo%20de%20viabilidade%20(T%C3%A9cnica_Econ%C3%B4mica)%20-%20Sprint%202.pdf) | Análise de viabilidade técnica e econômica | 2 dias atrás |
+| [Historias_Sprint2](Documentos/Historias_Sprint2.pdf) | Histórias de usuário da Sprint 2 | 2 dias atrás |
+| [Link do Figma - Nyox Imóveis](Documentos/Link%20do%20Figma%20-%20Nyox%20Im%C3%B3veis.pdf) | Protótipos de interface e design | 2 meses atrás |
+| [Matriz_Rastreabilidade_Refatorada](Documentos/Matriz_Rastreabilidade_Refatorada.pdf) | Matriz de rastreabilidade de requisitos | 2 dias atrás |
+| [Pipeline_CI-CD](Documentos/Pipeline_CI-CD.pdf) | Documentação do pipeline de integração contínua e entrega contínua | 2 dias atrás |
+| [Registro_Testes](Documentos/Registro_Testes.pdf) | Registro de testes realizados no projeto | 2 dias atrás |
+| [Scrum Setup e Backlog Inicial - Nyox Imóveis](Documentos/Scrum%20Setup%20e%20Backlog%20Inicial%20-%20Nyox%20Im%C3%B3veis.pdf) | Configuração inicial do Scrum e backlog do projeto | 2 meses atrás |
+| [Testing_Strategy](Documentos/Testing_Strategy.pdf) | Estratégia de testes do projeto | 2 dias atrás |
+| [LICENSE](Documentos/LICENSE) | Licença MIT | 2 meses atrás |
+| [README.md](README.md) | Arquivo de documentação principal | 2 meses atrás |
